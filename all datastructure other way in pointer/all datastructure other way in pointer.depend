@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1671293169 source:a:\revision\revision all data structuer\all datastructure other way in pointer\main.c
+	<stdio.h>
+	"global.h"
+
+1671311489 a:\revision\revision all data structuer\all datastructure other way in pointer\global.h
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<malloc.h>
+	<stdbool.h>
+	"stack.h"
+	"queue.h"
+	"likedList.h"
+	"tree.h"
+
+1671204295 a:\revision\revision all data structuer\all datastructure other way in pointer\stack.h
+	"global.h"
+
+1671203814 source:a:\revision\revision all data structuer\all datastructure other way in pointer\stack.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<stdbool.h>
+	"stack.h"
+
+1671201494 source:a:\revision\revision all data structuer\all datastructure other way in pointer\global.c
+	"global.h"
+
+1671209525 a:\revision\revision all data structuer\all datastructure other way in pointer\queue.h
+	"global.h"
+
+1671209815 source:a:\revision\revision all data structuer\all datastructure other way in pointer\queue.c
+	"global.h"
+
+1671288264 a:\revision\revision all data structuer\all datastructure other way in pointer\likedlist.h
+	"global.h"
+
+1671293068 source:a:\revision\revision all data structuer\all datastructure other way in pointer\likedlist.c
+	"global.h"
+
+1671285735 source:a:\revision\revision all data structuer\all datastructure other way in pointer\tree.c
+
+1671311171 a:\revision\revision all data structuer\all datastructure other way in pointer\tree.h
+	"global.h"
+
